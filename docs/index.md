@@ -1,41 +1,25 @@
-$project
-========
+#Title of my project
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+*What does your project do or solve, or what questions is it attempting to address?  What information is included in your documentation and how should others navigate this information?*
 
-Look how easy it is to use:
+##Project components and methods
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+*What background information will make your project ready for scientific, public, or computational consumption? You don't have to reinvent the wheel...check out the resources and initiatives below.*
 
-Features
---------
+- [Data Documentation Initiative (DDI)](https://ddialliance.org/)
+- [Write the Docs](http://www.writethedocs.org/)
+- [Minimal Information for Biological and Biomedical Investigations (MIBBI)](https://fairsharing.org/collection/MIBBI)
 
-- Be awesome
-- Make things faster
+##Contribute
 
-Installation
-------------
+*Describe how others can contribute to your project.  Consider including links to:*
 
-Install $project by running:
+- An issues tracker
+- Source code
 
-    install project
+##license
 
-Contribute
-----------
+*Without a standard license, others will not know how and if they can reuse and redistribute your work. You might find these resources helpful:*
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+- [Choose an Open Source License](https://choosealicense.com/)
+- [Data licensing guide](https://guides.nyu.edu/data_management/data-licensing)
