@@ -17,7 +17,7 @@
 - An issues tracker
 - Source code
 
-## license
+## License
 
 *Without a standard license, others will not know how and if they can reuse and redistribute your work. You might find these resources helpful:*
 
