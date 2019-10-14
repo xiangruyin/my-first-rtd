@@ -1,5 +1,8 @@
 site_name: My first readthedocs
-theme: readthedocs
+theme: material
+plugins: 
+  - search
+docs_dir: docs
 pages:
 - About this project: index.md
 - Contributors: contributors.md
