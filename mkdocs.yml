@@ -1,0 +1,5 @@
+site_name: My first readthedocs
+theme: readthedocs
+pages:
+- About this project: index.md
+- Contributors: contributors.md
