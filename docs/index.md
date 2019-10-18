@@ -1,19 +1,19 @@
 # Title of my project
 
-*What does your project do or solve, or what questions is it attempting to address?  What information is included in your documentation and how should others navigate this information?*
+*  Write a short abstract for your project.  What does it do or solve, or what questions is it attempting to address?  What information is included in your documentation and how should others navigate this information?*
 
-## Project components and methods
+## Project attributes and methods
 
-*What background information will make your project ready for scientific, public, or computational consumption? You don't have to reinvent the wheel...check out the resources and initiatives below.*
+*What reference information will make your project ready for scientific, public, or computational consumption? You don't have to reinvent the wheel...check out the resources and initiatives below.*
 
-- [Data Documentation Initiative (DDI)](https://ddialliance.org/)
 - [Write the Docs](http://www.writethedocs.org/)
 - [Minimal Information for Biological and Biomedical Investigations (MIBBI)](https://fairsharing.org/collection/MIBBI)
 
-## Contribute
+## Use and Contribute
 
-*Describe how others can contribute to your project.  Consider including links to:*
+*Describe how others can use and contribute to your project.  Consider including links to:*
 
+- Tutorials and how to guides
 - An issues tracker
 - Source code
 
